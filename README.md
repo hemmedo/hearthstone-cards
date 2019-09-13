@@ -1,5 +1,5 @@
 # heartstone-cards
-Read card details and mechanics...do search for any card you want!
+Read card details and mechanics...do search for any card you want.
 
 RN Version: 0.60.5
 Redux
