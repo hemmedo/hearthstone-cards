@@ -12,7 +12,7 @@ I used nativebase UI components since nothing was told to me about not using any
 
 For card flip animation I used this package: https://www.npmjs.com/package/react-native-card-flip
 
-Unfortunately I didn't have enough time to write these components by myself. I could've if I didn't already have a job.
+Flatlist gets laggy after 100+ items. I'm gonna update this project and use this instead: https://github.com/lhandel/react-native-card-flip. It is much faster and smoother.
 
 Many of the image url's that are fetched from the web api are dead. That is the reason of white spaces between card items.
 
