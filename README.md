@@ -14,7 +14,7 @@ Used debouncing for search input by 0.5 second.
 
 Used this package for card flip animation: https://www.npmjs.com/package/react-native-card-flip
 
-Flatlist gets laggy after 100+ items. I'm gonna update this project and use this instead: https://github.com/lhandel/react-native-card-flip. It is gonna be much faster and smoother.
+Flatlist gets laggy after 100+ items. I'm gonna update this project and use this instead: https://github.com/Flipkart/recyclerlistview. It is gonna be much faster and smoother.
 
 Many of the image url's that are fetched from the web api are dead. That is the reason of white areas between card items.
 
