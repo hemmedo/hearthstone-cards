@@ -6,11 +6,13 @@ Redux
 Redux-Saga
 React-Navigation
 
+Development platform: Windows (couldn't test whether it works for ios or not)
+
 You can see the algorithm which picks only the cards that contain "mechanics" property and all the unique mechanic names in App/Sagas/HearthstoneSagas.js file.
 
 Used nativebase UI components since nothing was told to me about not using any third party libraries.
 
-Used debouncing for search input by 0.5 second.
+Used debouncing for search input.
 
 Used this package for card flip animation: https://www.npmjs.com/package/react-native-card-flip
 
